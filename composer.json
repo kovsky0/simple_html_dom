@@ -1,6 +1,6 @@
 {
 	"name": "kovsky0/simple_html_dom",
-	"description": "Simple HTML DOM package.",
+	"description": "Simple HTML DOM package (modified - added CURL if sockets fail).",
 	"keywords": ["dom", "php dom"],
 	"homepage": "http://simplehtmldom.sourceforge.net/",
 	"type": "library",
@@ -14,6 +14,11 @@
 			"name": "S.C. Chen",
 			"email": "me578022@gmail.com",
 			"homepage": "http://simplehtmldom.sourceforge.net/"
+		}
+		{
+			"name": "Daniel Wyrzykowski",
+			"email": "daniel@altruisto.com",
+			"homepage": "https://twitter.com/kovsky0"
 		}
 	],
 	"autoload": {
